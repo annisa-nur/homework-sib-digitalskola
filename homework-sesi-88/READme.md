@@ -12,3 +12,7 @@ Dataset `sales.txt` berisi dua kolom: Penjualan (Sales) dan Iklan (Advertising) 
 2. Instal paket yang diperlukan:
    ```bash
    pip install pandas numpy matplotlib scikit-learn
+
+## Hasil Prediksi
+![Screenshot Hasil](Result.jpg)
+
