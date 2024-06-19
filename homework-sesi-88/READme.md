@@ -14,5 +14,5 @@ Dataset `sales.txt` berisi dua kolom: Penjualan (Sales) dan Iklan (Advertising) 
    pip install pandas numpy matplotlib scikit-learn
 
 ## Hasil Prediksi
-![Screenshot Hasil](Result.jpg)
+![Screenshot Hasil](Result.png)
 
